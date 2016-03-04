@@ -2,6 +2,8 @@
 
 Edit this paragraph to submit a Pull Request.
 
+OK.
+
 ### Cheatsheet
 
 #### Git basics
