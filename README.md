@@ -131,3 +131,22 @@ After you specify the title of the Pull Request and create it, it should
 show up here:
 
 	https://github.com/mvdan/tuura-testrepo/pulls
+
+#### Other useful commands
+
+Show the history of changes:
+
+	git log
+
+Show the current branches, and what branch you're on:
+
+	git branch
+
+To undo all changes to the files tracked by git (everything shown in red
+by `git status`):
+
+	git reset --hard
+
+To add new files (which git doesn't track yet):
+
+	git add file/dir...
